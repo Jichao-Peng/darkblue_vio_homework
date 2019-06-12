@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/verify_rotation.dir/main.cpp.o  -o verify_rotation 
